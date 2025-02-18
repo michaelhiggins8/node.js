@@ -1,3 +1,6 @@
 const {v4: uuidv4} = require("uuid");
 console.log(uuidv4());
-console.log("a");
+for(let i = 0; i<10;i++){
+  
+  console.log("a");
+}
